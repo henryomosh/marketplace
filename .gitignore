@@ -3,3 +3,4 @@ ve/
 requirements/
 frontend/node_modules/
 frontend/.env
+api/.env
